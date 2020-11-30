@@ -2,7 +2,7 @@
   "name": "gp2",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://dwayne4415.github.io/Project-2/.",
+  "homepage": "https://dwayne4415.github.io/Project-2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
