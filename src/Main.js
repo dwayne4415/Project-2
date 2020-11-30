@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import styled from "styled-components";
+
 import {
   Route,
   NavLink,
@@ -30,6 +32,7 @@ class Main extends Component {
             <Route path="/Foundations" component={Foundations}/>
             <Route path="/Patios" component={Patios}/>
             <Route path="/contact" component={Contact}/>
+            const button = styled.button`  color: 'grey',{""});
             
           </div>
         </div>
