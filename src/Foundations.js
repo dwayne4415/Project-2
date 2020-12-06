@@ -13,7 +13,7 @@ class Foundations extends Component {
             alt = "" / >
             <
             li > Commercial Building < /li>  <
-            img src = "https://i2.wp.com/theconstructor.org/wp-content/uploads/2014/11/matfoundation.jpg?resize=493%2C370&ssl=1"
+            img src = ""
             alt = "" / >
             <
             /ul> < /
