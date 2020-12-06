@@ -21,8 +21,8 @@ class Main extends Component {
             img src = "https://imagescdn.staticp.com/api/image/display/custom/New%20Beginnings%20Construction/a50x50/ad3f674d-8fc3-48b1-8c30-65a373ec9e51.jpg"
             alt = "" / >
             <
-            p > Concrete and more! < /p> < /
-            div > <
+            p > Concrete and more! < /p> </div >
+            <
             div >
             <
             ul className = "header" >
@@ -50,12 +50,9 @@ class Main extends Component {
             /> <
             Route path = "/contact"
             component = { Contact }
-            />
-
-
-            <
-            /div> < /
-            div > <
+            /> <
+            /div>  <
+            /div >  <
             /HashRouter>
         );
     }
