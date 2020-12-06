@@ -12,8 +12,7 @@ import Patios from "./Patios";
 
 class Main extends Component {
     render() {
-        return ( <
-            HashRouter >
+        return ( < HashRouter >
             <
             div class = "header" >
             <
