@@ -14,7 +14,8 @@ class Main extends Component {
     render() {
         return ( < HashRouter >
             <
-            div class = "header" >
+            div >
+
             <
             h1 > New Beginings Contruction < /h1> <
             img src = "https://imagescdn.staticp.com/api/image/display/custom/New%20Beginnings%20Construction/a50x50/ad3f674d-8fc3-48b1-8c30-65a373ec9e51.jpg"
