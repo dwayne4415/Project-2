@@ -1,3 +1,16 @@
+This application was construced with the React App, in order to run follow the instructions below. If you wish to down load the files and run in a development environment you may do so using the locahost address listed in the section marked npm start. 
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
